@@ -10,7 +10,6 @@ module.exports = function (eleventyConfig) {
     });
 
     return {
-        pathPrefix: "/github-pages-11ty-test/",
         templateFormats: [
             "md",
             "html",
