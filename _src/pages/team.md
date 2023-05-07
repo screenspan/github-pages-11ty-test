@@ -3,7 +3,7 @@ title: Team
 date: 2023-05-06T21:14:08.384Z
 ---
 
-# Team 
+# Team Members
 
 {% for teammember in teammembers %}
 <div class='card'>
