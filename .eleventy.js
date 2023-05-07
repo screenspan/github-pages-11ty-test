@@ -1,7 +1,7 @@
 module.exports = function (eleventyConfig) {
 
     eleventyConfig.addPassthroughCopy({
-        "_src/_images/": "img/"
+        "_src/images/": "img/"
     });
 
     eleventyConfig.setLiquidOptions({
