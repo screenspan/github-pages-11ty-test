@@ -1,0 +1,14 @@
+[
+    {
+        "firstName": "Johnny",
+        "lastName": "Rocket",
+        "profilePic": "johnny-rocket.jpg",
+        "about": "I love to take long, romantic walks on the beach!"
+    },
+    {
+        "firstName": "Sally",
+        "lastName": "Starship",
+        "profilePic": "sally-starship.jpg",
+        "about": "I love to take long, romantic walks on the moon!"
+    }
+]
